@@ -1,0 +1,10 @@
+.text{
+ color: darkgreen;
+}
+input{
+ width: 25%;
+}
+.search{
+  width:25%;
+  font-size: medium;
+}
